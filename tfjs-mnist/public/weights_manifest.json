@@ -1,0 +1,1 @@
+[{"paths": ["group1-shard1of1"], "weights": [{"name": "Variable", "shape": [784, 256], "dtype": "float32"}, {"name": "Variable_1", "shape": [256], "dtype": "float32"}, {"name": "Variable_2", "shape": [256, 10], "dtype": "float32"}, {"name": "Variable_3", "shape": [10], "dtype": "float32"}]}]
