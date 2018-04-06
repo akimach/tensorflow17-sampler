@@ -7,6 +7,8 @@ MNIST with TensorFlow.js
 
 ## Demo
 
+https://akimach.github.io/tensorflow17-sampler/
+
 ## Install
 
 ```
