@@ -5,7 +5,7 @@ TensorFlow 1.7 has just arrived!
 
 ## Table of contents
 
-- [x] Get Started
+- [x] [Get Started](#get-started)
 - [x] TensorFlow Hub
 - [x] TensorFlow.js
 - [ ] TensorFlow Eager Execution
