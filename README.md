@@ -28,7 +28,6 @@ $ pip install tensorflow==1.7.0
 $ pip install tensorflow-hub
 ```
 
-* https://www.tensorflow.org/hub/
 * [Colab Notebook](https://colab.research.google.com/drive/1Z3TubjsBuacsRYhPOWktkIW1YbvpmN79) 
 
 ## TensorFlow.js
@@ -37,8 +36,6 @@ $ pip install tensorflow-hub
 $ pip install tensorflowjs
 ```
 
-* https://www.tensorflow.org/javascript/
-* https://js.tensorflow.org/
 * [Demo - MNIST with TensorFlow.js]()
 * [Colab Notebook about converting TensorFlow SavedModel to TensorFlow.js](https://colab.research.google.com/drive/1KmrpYti43KNQgzVnovnLp01rdFmq5EuX)
 * [Sample codes for loading and running in the browser](/tfjs-mnist)
@@ -46,8 +43,6 @@ $ pip install tensorflowjs
 ## TensorFlow for Swift
 
 Join [Swift for TensorFlow](https://groups.google.com/a/tensorflow.org/forum/#!forum/swift).
-
-* https://www.tensorflow.org/community/swift
 
 ## Mailing Lists
 
