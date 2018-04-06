@@ -6,15 +6,15 @@ TensorFlow 1.7 has just arrived!
 ## Table of contents
 
 - [x] [Get Started](#get-started)
-- [x] TensorFlow Hub
-- [x] TensorFlow.js
+- [x] [TensorFlow Hub](#tensorflow-hub)
+- [x] [TensorFlow.js](#tensorflowjs)
 - [ ] TensorFlow Eager Execution
-- [x] TensorFlow for Swift
+- [x] [TensorFlow for Swift](#tensorflow-for-swift)
 - [ ] TensorFlow Lite
 - [ ] TensorFlow Probability
 - [ ] TensorFlow Extended(TFX)
 - [ ] Graphical debugger plug-in
-- [x] Mailing Lists
+- [x] [Mailing Lists](#mailing-lists)
 
 ## Get Started
 
