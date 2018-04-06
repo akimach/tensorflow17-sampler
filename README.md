@@ -36,7 +36,7 @@ $ pip install tensorflow-hub
 $ pip install tensorflowjs
 ```
 
-* [Demo - MNIST with TensorFlow.js]()
+* [Demo - MNIST with TensorFlow.js](https://akimach.github.io/tensorflow17-sampler/)
 * [Colab Notebook about converting TensorFlow SavedModel to TensorFlow.js](https://colab.research.google.com/drive/1KmrpYti43KNQgzVnovnLp01rdFmq5EuX)
 * [Sample codes for loading and running in the browser](/tfjs-mnist)
 
