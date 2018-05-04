@@ -13,10 +13,11 @@ https://akimach.github.io/tensorflow17-sampler/
 
 ```
 $ git clone git@github.com:akimach/tensorflow17-sampler.git
+$ cd tfjs-mnist
 $ yarn install
 ```
 
-## Usage 
+## Usage
 
 ```
 $ ./node_modules/.bin/webpack-dev-server
