@@ -1,7 +1,7 @@
 import Predictor from './predictor'
 
-const MODEL_URL = 'tensorflowjs_model.pb';
-const WEIGHTS_URL = 'weights_manifest.json';
+const MODEL_URL = 'https://akimach.github.io/tensorflow17-sampler/tensorflowjs_model.pb';
+const WEIGHTS_URL = 'https://akimach.github.io/tensorflow17-sampler/weights_manifest.json';
 const preditor = new Predictor();
 
 window.onload = function(){
