@@ -2,7 +2,7 @@ import Predictor from './predictor'
 
 const MODEL_URL = 'tensorflowjs_model.pb';
 const WEIGHTS_URL = 'weights_manifest.json';
-const preditor = new Predictor();
+const predictor = new Predictor();
 
 window.onload = function(){
   document.getElementsByTagName('body')[0].style.visibility = "visible";
@@ -49,7 +49,7 @@ window.onload = function(){
   }
 
   document.getElementById('inference').onclick  = () => {
-    preditor.predict(pixels).then(value => {
+    predictor.predict(pixels).then(value => {
       const y_pred = Array.prototype.slice.call(value);
       var argmax = 0;
       digit_probs[argmax].innerHTML = y_pred[argmax].toFixed(3);
@@ -66,7 +66,7 @@ window.onload = function(){
     });
   }
 
-  preditor.load(MODEL_URL, WEIGHTS_URL).then(() => {
+  predictor.load(MODEL_URL, WEIGHTS_URL).then(() => {
     container.style.visibility = 'visible';
     note.style.visibility = 'hidden';
   });
